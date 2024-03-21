@@ -27,12 +27,12 @@ body{
 
 .container{
     margin: 0 auto;
-    width: 400px;
+    width: 410px;
 }
 
 .card {
     background-color: var(--White) ;
-    border-radius: 15px;
+    border-radius: 20px;
     padding: 20px;
     border: 1px solid black;
     box-shadow: 8px 8px 0 black;
@@ -44,9 +44,8 @@ body{
 .card .banner img{
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
     margin-bottom: 20px;
 }
 h4, h2, h3{
@@ -83,7 +82,7 @@ p{
 
 .content .text-content{
     color: var(--Grey);
-    line-height: 20px;
+    line-height: 26px;
     margin-bottom: 20px;
 }
 
